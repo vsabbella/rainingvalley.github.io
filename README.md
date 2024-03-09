@@ -32,6 +32,3 @@ Any advise for common problems or issues.
 ```
 command to run if program contains helper info
 ```
-
-
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
