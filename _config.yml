@@ -3,8 +3,11 @@ title: Tech explorations
 author: Venkata Sabbella
 url: https://www.abhinavsaxena.com/moonwalk # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes with horizontal list (for navbar and footer), card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that.
+    Hello fellow engineers. I am Venkata Sabbella, a software engineer by profession and a tech enthusiast by passion.I am a big fan of open source and love to contribute to the community.
+    I plan to use this space to share my learnings, experiences and thoughts on various technologies and tools that I come across.I hope you find it useful and interesting.
 
+#Hello fellow engineers. I am Venkata Sabbella, a software engineer by profession and a tech enthusiast by passion. I am a big fan of open source and love to contribute to the community.
+#I plan to use this space to share my learnings, experiences and thoughts on various technologies and tools that I come across. I hope you find it useful and interesting.
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
