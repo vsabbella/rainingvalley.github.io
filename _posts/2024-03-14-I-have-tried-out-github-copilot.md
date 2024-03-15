@@ -1,3 +1,8 @@
+---
+layout: post
+published: false
+---
+
 I have tried out GitHub Copilot and here are my initial impressions.
 
 To my surprise, it worked well with Epix, which is proprietary to Salesforce. I generated a test class for a batch of Apex code and it generated a sensible test script. I also played around with generating snippets of code at specific lengths. It was able to generate code to get all opportunities for a given account ID and put them in a map indexed by ID. I was impressed with the generated snippets.
