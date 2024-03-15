@@ -6,8 +6,6 @@ description: > # description of the site (multiple lines allowed)
     Hello fellow engineers. I am Venkata Sabbella, a software engineer by profession and a tech enthusiast by passion.I am a big fan of open source and love to contribute to the community.
     I plan to use this space to share my learnings, experiences and thoughts on various technologies and tools that I come across.I hope you find it useful and interesting.
 
-#Hello fellow engineers. I am Venkata Sabbella, a software engineer by profession and a tech enthusiast by passion. I am a big fan of open source and love to contribute to the community.
-#I plan to use this space to share my learnings, experiences and thoughts on various technologies and tools that I come across. I hope you find it useful and interesting.
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
